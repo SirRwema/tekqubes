@@ -1,0 +1,292 @@
+*url chnages
+*local file working in app
+*setup for video caching
+*bbb working
+*bbb changes
+*url chnages
+*local url added
+*pick image from galley also working
+*camera image working but api hit is not working
+*$this face book fixed
+*batch css fixed
+*working with batch description page
+*css changed for batch
+*fix for push notification after logout
+*lazy-image issue fixed
+*disabling the chat
+*old version support for blog post page
+*test issue fixed
+*video-gular support added in course description page and blog post page
+*videogular issue fixed
+*dragula service error fix
+*dragula service error import fixed
+*progress bar undefinde issue fixed
+*wplms.io enable
+*push notification and attendance settting added for multisite
+*merging multisite
+*push notification setting added
+*fixes
+*intro text
+*intro page
+*toast controller added after assignment upload
+*type issue fixed
+*create reply and topic fixed
+*2.6
+*ios fixes comment out for android versions.
+*config
+*group directory fixed for diffrent params
+*commented admob
+*syntax fixed
+*group directory fixed for diffrent params
+*groups api
+*logo
+*main_logo changed
+*chat again added it was removed
+*synatx chatservice added
+*translations updated
+*fonts updated
+*Revert "some changes according to user"
+*some changes according to user
+*firebase login fixed after login to app
+*fix for iphone x
+*wplms.io details, Do not commit these AGAIN !
+*iphoneX fix
+*app module syntax fixd
+*font added
+*loader fix
+*change of font
+*attach ment issue fixed
+*App migrated to wplms.io
+*WARNING : NEVER CHANGE THESE !!
+*wishlishlist  and padding on homepage fixes
+*refresher fixed
+*remaining not in meta for quiz
+*put reload button if api hit for quizzes not completes
+*Squashed commit of the following:
+*removing console
+*new comment id should be maximum + 1
+*Revert "only add those comments which are not existing."
+*edit reply fixed
+*only add those comments which are not existing.
+*http call added back
+*nested comments
+*nexted comments
+*refresher pagination fix
+*initialise comments again
+*styling fixess
+*no date fix
+*check course expiry only if its set
+*in app browser units set to false by default
+*course expiry implemented in app
+*added setting to open units in in app browser automatically if enabled
+*button not sticky in ioni scroll content fix
+*do not cache observables
+*imagecache fallbck when image is not able to cache
+*remove double social profile fields
+*'false' to false check
+*true false fix
+*toast to alert html showing in error message fix
+*force all question was stopping quiz submit on quiz timeout fix
+*dir rtl support in instrcutor page
+*view button not working in search fix
+*status in course status call to check it live
+*finish course button not appearing fix
+*wallet not working fix
+*finsihed filter in my cuorses tab fix
+*iframe to object to add iframe type specific class
+*check for per view count is lesser than
+*private coming soon bug fixed
+*quiz marked completed as soon as it opened bug fix
+*pricing fixes
+*dependencies fixed
+*smalltext question not working quiz fix
+*fb browserinit code commented
+*strict check for price
+*remove redirect to blog page
+*login *ngif not working fix
+*remove return this.observable as it shows old values
+*olf profile data is loading  fix attempt 1
+*undefined error of wrong observable
+*Revert "featured and popular courses vanished issue fix"
+*featured and popular courses vanished issue fix
+*same course showing issue fix
+*featured courses and popular courses fixes in home page
+*clicking on wishlist opening course page on directory page issue fix
+*audio player changed
+*pricing popup fix for ios devices
+*open units in app
+*view all courses by instrcutor button fix
+*set instrcutor in storage
+*pmpro check level for selected level
+*pmpro connect in app
+*ok and cancel translated
+*image cache not wotking in Ios fix
+*quiz retake fixes
+*audio support in app
+*profile and course status swipe blank issue fix by scrolling to top on slidechanged
+*courses translation in category block on home page
+*logout call
+*serach to search
+*css changes for rtl
+*rtl support in app
+*load profile again when course is subscribed dashboard my course count fix
+*ion-button added
+*popup on iframes
+*changed redirect to mycourses to reload course on subscription
+*quiz not showing start button when started and then load the app again and goto quiz fix
+*question options cutting off fix
+*logut button in profile in settings
+*make hit each time when access profile tab coz activity should show latest values
+*merge data to localstorage (my courses not fixed yet)
+*course shows pricing even when its taken by user fix
+*star rating fix in course page
+*buy popup according to config settings
+*some more quiz fixes and show marked answer
+*retake button show hide logic plus start quiz button fix
+*retake button show hide
+*retakes in app
+*retake quiz attempt
+*course page tabs translations
+*sample product
+*wallet inAppproduct purchase
+*wallet inAppproduct purchase
+*quiz answers not marking issue fix
+*inapp products
+*1 button for outdated API call
+*isAray in config
+*some js error fixes
+*course categories duplication bug fix
+*site url changed to wplrs
+*wallet setting in config
+*force mark all questions feature
+*native element not defined fix
+*image cache fix
+*nativelement not defined fix
+*spelling mistake
+*video and iframes fullscreen fix
+*translation fixes
+*push to mycourses tab on course subcribe
+*remove redundant services
+*changed site url to wplrs
+*translations added
+*infinite scroll in blog fix
+*customize pagination support
+*level location tracker fixes
+*directory fixes
+*removed redundant inclusions
+*pricing options
+*progress not defined fix
+*course multiple pricing
+*question undefined fix
+*0.4 fixes
+*profile logins
+*notifications count
+*profile and authentication using oauth
+*loading fb
+*Google plus login
+*config update
+*fb avatar
+*fb login
+*my attempt
+*fb login attemp
+*fill blank question fix
+*safehtml in unit content
+*safehtml pipe in app module
+*safehtml to evaluate style tags in course desc
+*progress not defined issue fix
+*variable name fix
+*courseitems not defined issue when no content only video in unit fix
+*coursestatus variable check in checkquizstatus function
+*fb and google login disabled
+*fb signup changes
+*finish course button fix
+*register & signin on fb
+*iframes refining
+*iframes urls array
+*min height for courses
+*intro fixes
+*app fixes
+*featured js error fix
+*fixes with latest ionic
+*fixes
+*fixes
+*Intro slides
+*facebook and google plus login
+*draggable fix
+*app design fix
+*config
+*registration and login
+*instructors tab added
+*featured image
+*draggable fix
+*instructor block added
+*results modifications
+*result page modifications
+*array check for saved results
+*res missing keys array check
+*splitpane and search
+*finalise colors
+*results changes
+*saved results tracker
+*set results in local storage
+*results view
+*last access fix
+*stop change profile field call when field is not valid
+*quiz results and submission ons ite
+*course button height fix
+*logout
+*course button fix
+*drip feed
+*a: do not store if dripped unit
+*not cache drip units
+*blog and video player
+*updates pipe by time
+*time not show in new updates fix
+*updates
+*profile fields edit and validations
+*blog and updates
+*blog
+*ion refresher
+*condition check if field is null
+*blog and its cache
+*live
+*config charts
+*statistics
+*charts
+*local results
+*edit strings
+*Profile field editor
+*api secret and token
+*update course service
+*wishlist and notifications and activity.
+*course finish
+*course reviews
+*infinite scrolling in profiles
+*activity in profile
+*course notifications and activity
+*timer
+*quiz evaluation and results
+*hard coding new token
+*quiz submissions & results
+*quiz results
+*directory complete
+*caching enabled
+*directory with filters
+*Saperate Category
+*Working directory
+*quiz complete.
+*quiz questions complete
+*quiz start
+*quizzes and questions
+*course status with progress handle
+*course status
+*course status service started
+*translations and services. Profile
+*services
+*auth init
+*course directory
+*course init
+*Header directive
+*categories display
+*search page fixes
+*init
